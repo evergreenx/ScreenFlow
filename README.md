@@ -52,10 +52,6 @@ A: ScreenFlow primarily focuses on recording. You can use video editing software
 
 We welcome contributions from the community! If you'd like to contribute to the development of ScreenFlow, please check out our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-ScreenFlow is licensed under the [MIT License](LICENSE).
-
 ---
 
 Thank you for using ScreenFlow! We hope you find it a valuable tool for your screen recording needs.
