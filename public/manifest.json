@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "ScreenFlow - Chrome Screen Recorder",
+  "version": "1.0",
+  "description": "Capture and record your screen effortlessly in the Chrome browser",
+
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+}
