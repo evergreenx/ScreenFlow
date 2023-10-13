@@ -1,27 +1,61 @@
-# React + TypeScript + Vite
+# ScreenFlow - Chrome Screen Recording Extension
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ScreenFlow is a powerful Chrome extension that allows you to effortlessly capture and record your screen activity. Whether you want to create tutorials, capture webinars, or record video presentations, ScreenFlow is your go-to tool for screen recording in the browser.
 
-Currently, two official plugins are available:
+![ScreenFlow Logo](/images/screenflow-logo.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Simple and Intuitive**: Easily start and stop recordings with just a few clicks.
+- **Full-Screen or Custom Area**: Choose to record your entire screen or a specific region.
+- **Audio Recording**: Capture system audio or microphone input for narrations.
+- **Customizable Settings**: Tailor recording quality, file format, and storage options to your preferences.
+- **Pause and Resume**: Pause recording to gather your thoughts and then resume seamlessly.
+- **Automatic File Management**: Organize your recordings effortlessly with automatic file naming and storage.
+- **Share Your Creations**: Easily share your recordings with colleagues, friends, or your online audience.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Installation
 
-- Configure the top-level `parserOptions` property like this:
+1. Visit the [ScreenFlow extension page on the Chrome Web Store](#) (link to be added once published).
+2. Click the "Add to Chrome" button to install the extension.
+3. Follow the on-screen instructions to complete the installation.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## Usage
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Click the ScreenFlow extension icon in your Chrome toolbar.
+2. Customize your recording settings (optional).
+3. Click the "Start Recording" button to begin capturing your screen.
+4. When finished, click the "Stop Recording" button.
+5. Your recording will be saved to your selected destination.
+
+## Configuration
+
+You can configure ScreenFlow by clicking on the extension icon and accessing the settings menu. Here, you can adjust:
+
+- Recording quality and resolution
+- Audio sources (system audio and microphone)
+- Storage location
+- File format (MP4, WebM, etc.)
+- Keyboard shortcuts (if available)
+
+## Frequently Asked Questions
+
+**Q: Is ScreenFlow free to use?**
+A: ScreenFlow offers both a free version for now. The free version provides basic screen recording capabilities..
+
+**Q: Can I record both video and audio with ScreenFlow?**
+A: Yes, ScreenFlow supports audio recording, including system audio and microphone input.
+
+**Q: How do I edit or trim my recorded videos?**
+A: ScreenFlow primarily focuses on recording. You can use video editing software to post-process your recordings.
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to the development of ScreenFlow, please check out our [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+ScreenFlow is licensed under the [MIT License](LICENSE).
+
+---
+
+Thank you for using ScreenFlow! We hope you find it a valuable tool for your screen recording needs.
