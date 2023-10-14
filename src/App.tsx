@@ -1,4 +1,4 @@
-    // /*global chrome*/
+
 
 import "./App.css";
 
